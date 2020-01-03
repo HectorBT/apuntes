@@ -11,7 +11,6 @@ El fichero de configuración del software Apache se encuentra en la siguiente ru
 ~~~
 etc/apache2/apache2.conf
 ~~~
- 
 ~~~
 <VirtualHost *:80>
 DocumentRoot /www/example1
