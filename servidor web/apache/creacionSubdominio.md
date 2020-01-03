@@ -1,8 +1,11 @@
 ## Creación de subdominio en apache
+<<<<<<< HEAD
 ---
 ### [Volver al readme](../../README.md) 
 * [Instalación apache](instalacionApache.md) 
 ---
+=======
+>>>>>>> 8333b57881a06459bdf07332ea0db21673e2de0b
 en la ruta 
 ~~~
 /etc/apache2/sites-available
